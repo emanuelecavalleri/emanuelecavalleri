@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emanuelecavalleri
+- 👋🏼 Hi, I’m @emanuelecavalleri
 - 👀 I am a graduate student in Computer Science with plans to specialize in the field of Bioinformatics 🌱 
 
 <!---
