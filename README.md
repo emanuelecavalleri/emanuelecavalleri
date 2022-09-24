@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />, I’m @emanuelecavalleri 👨🏻‍🎓🙋🏻‍♂️
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /> I’m @emanuelecavalleri 👨🏻‍🎓🙋🏻‍♂️ </h1>
 
 - 👀 I am a graduate student in Computer Science with plans to specialize in the field of Bioinformatics 🧬🌱 
 
