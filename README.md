@@ -4,8 +4,6 @@
 
 - 🔎 Knowledge graphs, bio-ontologies, molecular docking and dynamics simulations 🔍
 
-- 💬 *Computer Science is no more about computers than astronomy is about telescopes.* (**Edsger Wybe Dijkstra**) 💻🔭
-
 - My [ORCID](https://orcid.org/0000-0003-1973-5712)
 
 <!---
