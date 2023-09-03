@@ -4,8 +4,6 @@
 
 - 🔎 Knowledge graphs, bio-ontologies, molecular docking and dynamics simulations 🔍
 
-- My [ORCID](https://orcid.org/0000-0003-1973-5712)
-
 <!---
 emanuelecavalleri/emanuelecavalleri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
