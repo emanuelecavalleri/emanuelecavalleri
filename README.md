@@ -2,7 +2,7 @@
 
 - 👀 I am a PhD student in Computer Science specialized in the field of Bioinformatics 🧬💊🌱 
 
-- 🔎 Knowledge graphs, bio-ontologies, molecular docking and dynamics simulations 🔍
+- 🔎 Knowledge graphs, bio-ontologies, ML molecular docking and dynamics simulations 🔍
 
 <!---
 emanuelecavalleri/emanuelecavalleri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
